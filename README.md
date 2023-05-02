@@ -6,6 +6,7 @@ I'm a passionate coder who loves working on React and React Native projects. My 
 ### Here are some of the skills and technologies that I'm proficient in:
 
 React
+
 React Native
 
 TypeScript
