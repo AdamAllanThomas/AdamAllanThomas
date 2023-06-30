@@ -5,15 +5,13 @@ I'm a passionate coder who loves working on React and React Native projects. My 
 ## Skills
 ### Here are some of the skills and technologies that I'm proficient in:
 
-React
+React / React Native
 
-React Native
+TypeScript / JavaScript
 
-TypeScript
+Python
 
-JavaScript
-
-HTML/CSS
+HTML / CSS
 
 ## Contact Me
 If you're interested in connecting with me or learning more about my work, feel free to reach out via LinkedIn.
