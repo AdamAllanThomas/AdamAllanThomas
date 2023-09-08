@@ -13,6 +13,8 @@ Python
 
 HTML / CSS
 
+Java
+
 ## Contact Me
 If you're interested in connecting with me or learning more about my work, feel free to reach out via LinkedIn.
 
